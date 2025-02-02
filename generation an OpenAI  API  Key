@@ -1,0 +1,6 @@
+The OpenAI API key is required to connect our app to the API endpoints. It'll enable us to retrieve generative responses. Follow the instructions below.
+Navigate to the OpenAI website.
+Click Log in or Sign up in the top navigation bar.
+If successful, you'll be redirected to the OpenAI platform.
+Navigate to the API keys section and generate a new secret key.
+Remember to specify the correct API key, otherwise responses will not be generated.
